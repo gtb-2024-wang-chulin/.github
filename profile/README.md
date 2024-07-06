@@ -16,19 +16,20 @@ here are some info about me
 
 1. This is a photo of me in my regular clothes
 
-   <img src="assets/me_normal.jpg" alt="me_normal" />
+   <img src="assets/me_normal.jpg" alt="me_normal" width="60%"/>
 
    
 
 2. This is a photo of me in my graduation gown.
 
-<img src="assets/me_graduate.jpg" alt="me_graduate" />
+<img src="assets/me_graduate.jpg" alt="me_graduate" width="60%" />
 
 3. my friend and i
 
-<img src="assets/me_graduate_friends.jpg" alt="me_graduate_friends" />
+<img src="assets/me_graduate_friends.jpg" alt="me_graduate_friends" width="60%" />
 
 ### contact me
 
 - github [yikina (github.com)](https://github.com/yikina)
 - 掘金   [yikina 的个人主页 - 动态 - 掘金 (juejin.cn)](https://juejin.cn/user/3837745123305720)
+
