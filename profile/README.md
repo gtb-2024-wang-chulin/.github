@@ -16,13 +16,17 @@ here are some info about me
 
 1. This is a photo of me in my regular clothes
 
+   <img src="assets/me_normal.jpg" alt="me_normal" />
+
    
 
 2. This is a photo of me in my graduation gown.
 
-
+<img src="assets/me_graduate.jpg" alt="me_graduate" />
 
 3. my friend and i
+
+<img src="assets/me_graduate_friends.jpg" alt="me_graduate_friends" />
 
 ### contact me
 
